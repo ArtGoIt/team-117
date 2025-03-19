@@ -1,2 +1,7 @@
-p {
+.team {
+  background: tomato;
+}
+
+.team-title {
+  color: goldenrod;
 }
